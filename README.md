@@ -36,11 +36,11 @@ On the RS environment previously deployed, the user can install as well all or s
 ## Get started
 
 Description of how to install and showing a short description of the version in a table.
-| Milestones | Description                                                                                                            |
-| :----------: | ---------------------------------------------------------------------------------------------------------------------- |
-| **V1.0**       | Scope :<br>\- Deployment on RS platform<br>\- L0 products are available for S1 and S3 workflows without SCDF<br>\- SRN |
-| ***V1.1***       | *TBC*                                                                                                                    |
-| ***V2.0***       | *TBC*                                                                                                                    |
+| Milestones | Description                                                                                                                | Links |
+| :----------: | ----------------------------------------------------------------------------------------------------------------------   |-------|
+| **V1.0**       | Scope :<br>\- Deployment on RS platform<br>\- L0 products are available for S1 and S3 workflows without SCDF<br>\- SRN | <br>\- [infrastructure](https://github.com/COPRS/infrastructure/tree/1.0.0)<br>\- [production-common](https://github.com/COPRS/production-common/tree/1.0.0)<br>\- [user-web-client](https://github.com/COPRS/user-web-client/tree/1.0.0)<br>\- [processing-sentinel-1](https://github.com/COPRS/processing-sentinel-1/tree/1.0.0)<br>\- [processing-sentinel-3](https://github.com/COPRS/processing-sentinel-3/tree/1.0.0) |
+| ***V1.1***       | *TBC*                                                                                                                |       |
+| ***V2.0***       | *TBC*                                                                                                                |       |
 
 ## Contribute to the project
 
